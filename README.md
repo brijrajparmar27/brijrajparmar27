@@ -20,7 +20,7 @@ I Love experimenting with new technologies and techniques. I am very passionate 
 I am also an open-source Advocate and enthusiast. I learned a lot from the open-source community I believe When One teaches, two learn.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/coder.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/coder.gif" width="500" height=auto />
   
 - 💬 I love to meet new People;
 - 📫 How to reach me: [@brjiraj](https://www.linkedin.com/in/brijrajsinh-parmar/);
