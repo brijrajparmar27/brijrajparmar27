@@ -27,7 +27,7 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 - 📫 How to reach me: [@brjiraj](https://www.linkedin.com/in/brijrajsinh-parmar/);
 - 📝 [Resume](https://drive.google.com/)
 
-**Languages and Tools:**  
+**L a n g u a g e s  a n d  T o o l s :**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/android.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/flutter.svg"></code>
