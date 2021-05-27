@@ -3,6 +3,9 @@
 <a href="https://twitter.com/brijrajparmar32">
   <img align="left" alt="Brijraj's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://instagram.com/brjiraj">
+  <img align="left" alt="Brijraj's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 <a href="https://www.linkedin.com/in/brijrajsinh-parmar/">
   <img align="left" alt="Brijraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
