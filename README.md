@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/me.png" align="left" height="120px" />
+<img src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/me.png" align="right" height="120px" />
 
 ### Hey there <img src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/hello.webp" width="25px">
 
