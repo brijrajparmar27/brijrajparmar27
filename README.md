@@ -14,11 +14,11 @@
 
 <br />
 
-Hi, I'm [Brijraj](https://meow.com/), a passionate self-taught developer and a IT Student from India who fell in love with computers as a child.
+<p>Hi, I'm [Brijraj](https://meow.com/), a passionate self-taught developer and a IT Student from India who fell in love with computers as a child.
 
 I Love experimenting with new technologies and techniques. I am very passionate about Creating things that touch lives, i do some Competitive Programming as well and am currently associated with numerous Communities and Organizations.
 
-I am also an open-source Advocate and enthusiast. I learned a lot from the open-source community I believe When One teaches, two learn.
+I am also an open-source Advocate and enthusiast. I learned a lot from the open-source community I believe When One teaches, two learn.</p>
 
 
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/coder.gif" width="100%" height=auto />
@@ -27,7 +27,7 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 - 📫 How to reach me: [@brjiraj](https://www.linkedin.com/in/brijrajsinh-parmar/);
 - 📝 [Resume](https://drive.google.com/)
 
-**L a n g u a g e s  a n d  T o o l s :**  
+**<h2 style="letter-spacing: 2px;">Languages and Tools:</h2>**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/android.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/flutter.svg"></code>
