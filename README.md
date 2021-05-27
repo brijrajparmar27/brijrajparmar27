@@ -37,6 +37,7 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 <code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/github.svg"></code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </div>
 
+
 📈 **My GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brijrajparmar27&show_icons=true&theme=gotham" alt="brijrajparmar27" />
