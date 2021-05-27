@@ -15,6 +15,7 @@
 <br />
 
 Hi, I'm [Brijraj](https://meow.com/), a passionate self-taught developer and a IT Student from India who fell in love with computers as a child.
+
 I Love experimenting with new technologies and techniques. I am very passionate about Creating things that touch lives, i do some Competitive Programming as well and am currently associated with numerous Communities and Organizations.
 
 I am also an open-source Advocate and enthusiast. I learned a lot from the open-source community I believe When One teaches, two learn.
