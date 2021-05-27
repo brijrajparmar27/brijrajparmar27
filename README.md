@@ -27,13 +27,13 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 
 **Languages and Tools:**  
 <div align="center">
-<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/android.svg"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/flutter.svg"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/firebase.svg"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/c.svg"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/java.svg"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/mysql.svg"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/github.svg"></code>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/android.svg"></code><div width="3%"></div>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/flutter.svg"></code><div width="3%"></div>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/firebase.svg"></code><div width="3%"></div>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/c.svg"></code><div width="3%"></div>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/java.svg"></code><div width="3%"></div>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/mysql.svg"></code><div width="3%"></div>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/github.svg"></code><div width="3%"></div>
 </div>
 
 📈 **My GitHub Stats**
