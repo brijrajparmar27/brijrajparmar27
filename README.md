@@ -26,15 +26,15 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/coder.gif" width="100%" height=auto />
 
 **Languages and Tools:**  
-
-<code><img height="55" align="center" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/android.svg"></code>
-<code><img height="55" align="center" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/flutter.svg"></code>
-<code><img height="55" align="center" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/firebase.svg"></code>
-<code><img height="55" align="center" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/c.svg"></code>
-<code><img height="55" align="center" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/java.svg"></code>
-<code><img height="55" align="center" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/mysql.svg"></code>
-<code><img height="55" align="center" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/github.svg"></code>
-
+<div align="center">
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/android.svg"></code>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/flutter.svg"></code>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/firebase.svg"></code>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/c.svg"></code>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/java.svg"></code>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/mysql.svg"></code>
+<code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/github.svg"></code>
+</div>
 📈 **My GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brijrajparmar27&show_icons=true&theme=gotham" alt="brijrajparmar27" />
