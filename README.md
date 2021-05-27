@@ -22,10 +22,6 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 
 
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/coder.gif" width="100%" height=auto />
-  
-- 💬 I love to meet new People;
-- 📫 How to reach me: [@brjiraj](https://www.linkedin.com/in/brijrajsinh-parmar/);
-- 📝 [Resume](https://drive.google.com/)
 
 **Languages and Tools:**  
 
@@ -37,6 +33,9 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 <code><img height="20" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/mysql.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/github.svg"></code>
 
+📈 **My GitHub Stats**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brijrajparmar27&show_icons=true&theme=gotham" alt="brijrajparmar27" />
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
@@ -46,10 +45,6 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 ⏳  Longest streak is 21 days
 <!-- TODO-IST:END -->
 
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brijrajparmar27&show_icons=true&theme=gotham" alt="brijrajparmar27" />
 
 
 
