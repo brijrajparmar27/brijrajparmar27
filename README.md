@@ -52,7 +52,7 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijrajparmar27&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats" alt="brijrajparmar27" />
 
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/bottom_header.svg" width="100%" height=auto />
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/KNPB.gif" width="100%" height=auto />
 
 
 
