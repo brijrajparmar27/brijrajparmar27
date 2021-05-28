@@ -50,7 +50,9 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 ⏳  Longest streak is 21 days
 <!-- TODO-IST:END -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijrajparmar27&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats" alt="brijrajparmar27" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijrajparmar27&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats" alt="brijrajparmar27" />
+
+<hr>
 
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/KNPB.gif" width="100%" height=auto />
 
