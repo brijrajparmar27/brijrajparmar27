@@ -40,7 +40,7 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 
 📈 **My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brijrajparmar27&show_icons=true&theme=gotham" alt="brijrajparmar27" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brijrajparmar27&show_icons=true" alt="brijrajparmar27" />
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
@@ -50,7 +50,7 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 ⏳  Longest streak is 21 days
 <!-- TODO-IST:END -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijrajparmar27&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats" alt="brijrajparmar27" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijrajparmar27&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="brijrajparmar27" />
 
 <hr>
 
