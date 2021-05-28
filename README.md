@@ -42,6 +42,10 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brijrajparmar27&show_icons=true" alt="brijrajparmar27" />
 
+🧪 **Stuff I Used**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijrajparmar27&layout=compact")](https://github.com/anuraghazra/github-readme-stats" alt="brijrajparmar27" />
+
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  7,837 Karma Points           
@@ -50,13 +54,9 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 ⏳  Longest streak is 21 days
 <!-- TODO-IST:END -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijrajparmar27&layout=compact")](https://github.com/anuraghazra/github-readme-stats" alt="brijrajparmar27" />
 
 ![Brijraj Parmar](https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/footer.svg)
 
 <hr style="height:.5px;border-width:0;color:gray;background-color:gray">
 
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/KNPB.gif" width="100%" height=auto />
-
-
-
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/KNPB.gif" width="100%" height=auto />
