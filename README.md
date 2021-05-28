@@ -54,10 +54,17 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 ⏳  Longest streak is 21 days
 <!-- TODO-IST:END -->
 
-<p align="center">see you out there 😁❤</p>
+<br>
+<br>
+
+<p align="center">see you out there 😄</p>
+
+<br>
 
 ![Brijraj Parmar](https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/footer.svg)
 
 <hr style="height:.5px;border-width:0;color:gray;background-color:gray">
+
+<br><br>
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/KNPB.gif" width="100%" height=auto />
