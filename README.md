@@ -1,18 +1,23 @@
-<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><img src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/me.png" align="right" height="120px" /></a>
+<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4">
+	<img src="assets/me.png" align="right" height="120px" />
+</a>
 
-### Hey there <img src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/hello.webp" width="25px">
+### Hey there <img src="assets/hello.webp" width="25px">
 
 <a href="https://twitter.com/brijrajparmar32">
-  <img align="left" alt="Brijraj's Twitter" width="22px" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/twitter.svg" />
+  <img align="left" alt="Brijraj's Twitter" width="22px" src="assets/twitter.svg" />
 </a>
 <a href="https://instagram.com/brjiraj">
-  <img align="left" alt="Brijraj's Twitter" width="22px" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/instagram.svg" />
+  <img align="left" alt="Brijraj's Twitter" width="22px" src="assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brijrajsinh-parmar/">
-  <img align="left" alt="Brijraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/linkedin.svg" />
+  <img align="left" alt="Brijraj's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 
-<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4">![](https://visitor-badge.glitch.me/badge?page_id=brijrajparmar27/brijrajparmar27)</a>
+<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4">
+
+![](https://visitor-badge.glitch.me/badge?page_id=brijrajparmar27/brijrajparmar27)
+</a>
 
 <br />
 
@@ -24,18 +29,19 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 
 
 <a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4">
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/coder.gif" width="100%" height=auto /></a>
+  <img align="center" alt="GIF" src="assets/coder.gif" width="100%" height=auto /></a>
+
 
 **Languages and Tools:**  
 
 <div align="center">
-<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/android.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/flutter.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/firebase.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/c.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/java.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/mysql.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/github.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="assets/android.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="assets/flutter.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="assets/firebase.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="assets/c.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="assets/java.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="assets/mysql.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4"><code><img height="55" src="assets/github.svg"></code></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </div>
 <br>
 
@@ -64,7 +70,7 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 
 <a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4">
 
-![Brijraj Parmar](https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/footer.svg)
+![Brijraj Parmar](assets/footer.svg)
 </a>
 
 <hr style="height:.5px;border-width:0;color:gray;background-color:gray">
@@ -72,5 +78,5 @@ I am also an open-source Advocate and enthusiast. I learned a lot from the open-
 <br><br>
 
 <a href="https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4">
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/main/assets/KNPB.gif" width="100%" height=auto />
+<img align="center" alt="GIF" src="assets/KNPB.gif" width="100%" height=auto />
 </a>
